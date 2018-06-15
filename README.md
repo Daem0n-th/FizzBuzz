@@ -1,2 +1,2 @@
 # FizzBuzz
-FizzBuzz implementation in python
+FizzBuzz implementation in python with easily changeble rules
